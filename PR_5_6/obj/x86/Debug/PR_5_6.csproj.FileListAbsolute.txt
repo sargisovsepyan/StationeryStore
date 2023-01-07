@@ -1,0 +1,30 @@
+C:\Users\User\AppData\Local\Temporary Projects\PR_5_6\bin\Debug\PR_5_6.exe
+C:\Users\User\AppData\Local\Temporary Projects\PR_5_6\bin\Debug\PR_5_6.pdb
+C:\Users\User\AppData\Local\Temporary Projects\PR_5_6\obj\x86\Debug\PR_5_6.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\PR_5_6\obj\x86\Debug\PR_5_6.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\PR_5_6\obj\x86\Debug\PR_5_6.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\PR_5_6\obj\x86\Debug\PR_5_6.exe
+C:\Users\User\AppData\Local\Temporary Projects\PR_5_6\obj\x86\Debug\PR_5_6.pdb
+C:\Users\User\AppData\Local\Temporary Projects\PR_5_6\obj\x86\Debug\PR_5_6.Form2.resources
+C:\Users\User\AppData\Local\Temporary Projects\PR_5_6\obj\x86\Debug\PR_5_6.Form3.resources
+D:\4course\InstrumentalniZasobi\PR(5-6)\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.exe
+D:\4course\InstrumentalniZasobi\PR(5-6)\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.pdb
+D:\4course\InstrumentalniZasobi\PR(5-6)\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.Form1.resources
+D:\4course\InstrumentalniZasobi\PR(5-6)\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.Form2.resources
+D:\4course\InstrumentalniZasobi\PR(5-6)\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.Form3.resources
+D:\4course\InstrumentalniZasobi\PR(5-6)\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.Properties.Resources.resources
+D:\4course\InstrumentalniZasobi\PR(5-6)\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.csproj.GenerateResource.Cache
+D:\4course\InstrumentalniZasobi\PR(5-6)\PR_5_6\PR_5_6\bin\Debug\PR_5_6.exe
+D:\4course\InstrumentalniZasobi\PR(5-6)\PR_5_6\PR_5_6\bin\Debug\PR_5_6.pdb
+D:\4course\InstrumentalniZasobi\PR(5-6)\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.csprojResolveAssemblyReference.cache
+D:\college\exampls\Basa\PR_5_6\PR_5_6\bin\Debug\PR_5_6.exe
+D:\college\exampls\Basa\PR_5_6\PR_5_6\bin\Debug\PR_5_6.pdb
+D:\college\exampls\Basa\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.csprojAssemblyReference.cache
+D:\college\exampls\Basa\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.Form1.resources
+D:\college\exampls\Basa\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.Form2.resources
+D:\college\exampls\Basa\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.Form3.resources
+D:\college\exampls\Basa\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.Properties.Resources.resources
+D:\college\exampls\Basa\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.csproj.GenerateResource.cache
+D:\college\exampls\Basa\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.csproj.CoreCompileInputs.cache
+D:\college\exampls\Basa\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.exe
+D:\college\exampls\Basa\PR_5_6\PR_5_6\obj\x86\Debug\PR_5_6.pdb
